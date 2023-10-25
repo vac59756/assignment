@@ -1,12 +1,43 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+The repo contains two individual script under /test that performs scraping on a website
+
+The script performs the following task
+
+1 Using Selenium, load the flipkart.com desktop home page.
+
+2 Search for the product "Samsung Galaxy S10" on that page. 
+
+3 On the search results click on "Mobiles" in categories.
+
+4 Apply the following filters (in filters section on the left hand side):   
+
+    Brand: Samsung
+
+    Select Flipkart assured
+
+    Sort the entries with Price -> High to Low.
+
+5 Read the set of results that show up on page 1.
+
+6 reate a list with the following parameters, and print this on the console.
+
+    Product Name
+
+    Display Price
+
+    Link to Product Details Page 
+
+assignment.py script is designed to run on local system and perform the scraping
+
+automateScript.py is designed to perform the scraping by running the tests using Browserstack Automate platform on five diferent parallel (Browser/OS combination)
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Installation/Build/Test process
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+    Clone the repo on your local system
+    
+    Prerequisites - python3, pip3 and Selenium(install selenium through PIP) installed
+    To run script assignment.py, run command pyton3 ./tests/assignment.py in the root directory
+    To run script automateScript.py
+        run > pip3 install -r requirements.txt > in the parent directory
+        run > browserstack-sdk python3 ./tests/automateScript.py
