@@ -24,6 +24,6 @@ options.set_capability('bstack:options', bstack_options)
 driver = webdriver.Remote(
     command_executor="https://hub.browserstack.com/wd/hub",
     options=options)
-driver.get("http://localhost:8099") # HTTP Server should be running on 8099 port of GitHub runner
+driver.get("https://www.flipkart.com/") # HTTP Server should be running on 8099 port of GitHub runner
 print(driver.title)
 driver.quit()

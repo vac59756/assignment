@@ -29,10 +29,6 @@ jobs:
 # The next 3 steps are for building the web application to be tested and starting the web server on the runner environment
       - name: 'Checkout the repository'
         uses: actions/checkout@v2
-      - name: 'Building web application to be tested'
-        run: npm install
-      - name: 'Running application under test'
-        run: ./node_modules/.bin/http-server -p 8099 &
       - name: 'Running test on BrowserStack'  # Invokes the actual test script that would run on BrowserStack browsers
         run: python ./tests/githubCI.py  # See sample test script above
       - name: 'BrowserStackLocal Stop'  # Terminating the BrowserStackLocal tunnel connection
