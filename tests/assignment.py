@@ -23,7 +23,7 @@ category = WebDriverWait(driver, 10).until(
 )
 category.click()
 
-# Apply 
+# Apply Filters
 # Select SAMSUNG brand
 brand = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.XPATH, "//div[@title='SAMSUNG']"))

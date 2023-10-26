@@ -6,22 +6,25 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import time
 
+#import environment variables
 userName = os.environ['BROWSERSTACK_USERNAME']
 accessKey = os.environ['BROWSERSTACK_ACCESS_KEY']
 localIdentifier = os.environ['BROWSERSTACK_LOCAL_IDENTIFIER']
 buildName = os.environ['BROWSERSTACK_BUILD_NAME']
 projectName = os.environ['BROWSERSTACK_PROJECT_NAME']
 
+#set capabilities
 bstack_options = {
     "os" : "Windows",
     "osVersion" : "10",
     "buildName" : "Build Name: " + buildName,
-    "projectName" : "BStack Project Name: " + projectName,
+    "projectName" : "Project Name: " + projectName,
     "localIdentifier": localIdentifier,
     "seleniumVersion" : "4.0.0",
     "userName": userName,
     "accessKey": accessKey
 }
+
 options = ChromeOptions()
 options.set_capability('bstack:options', bstack_options)
 driver = webdriver.Remote(
@@ -41,7 +44,7 @@ category = WebDriverWait(driver, 10).until(
 )
 category.click()
 
-# Apply 
+# Apply filters
 # Select SAMSUNG brand
 brand = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.XPATH, "//div[@title='SAMSUNG']"))
@@ -83,7 +86,7 @@ for name, price, link in zip(product_names, product_prices, product_links):
 for item in product_info:
     print(item)
 
-#Execute the test using BrowserStack Automate platform on five Parallel 
+#Execute the test using BrowserStack Automate platform
 if product_info:
     # Set the status of test as 'passed'
     driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"passed", "reason": "Product details were gathered"}}')

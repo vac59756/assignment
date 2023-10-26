@@ -1,5 +1,6 @@
 # Introduction 
-The repo contains two individual script under /test that performs scraping on a website
+The repo contains three independent script under /test that performs scraping on a website
+
 
 The script performs the following task
 
@@ -27,9 +28,11 @@ The script performs the following task
 
     Link to Product Details Page 
 
-assignment.py script is designed to run on local system and perform the scraping
+assignment.py script is designed to run on local system and perform the scraping.
 
-automateScript.py is designed to perform the scraping by running the tests using Browserstack Automate platform on five diferent parallel (Browser/OS combination)
+automateScript.py is designed to perform the scraping by running the tests using Browserstack Automate platform on five diferent parallel (Browser/OS combination). Dependent on browserstack.yml file under Parent directory.
+
+githubCI.py is desined to run the test on Browserstack Automate platform integrated with Github action. Gets triggred on each push. This is the dependency to the action.yml file under .github/workflow directory
 
 # Getting Started
 Installation/Build/Test process
@@ -41,3 +44,4 @@ Installation/Build/Test process
     To run script automateScript.py
         run > pip3 install -r requirements.txt > in the parent directory
         run > browserstack-sdk python3 ./tests/automateScript.py
+    Script githubCI.py gets triggered when there is a push performed on the repo
