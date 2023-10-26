@@ -34,7 +34,9 @@ jobs:
         mkdir -p $HOME/bin
         mv chromedriver $HOME/bin/
         rm chromedriver_linux64.zip
-        echo "::add-path::$HOME/bin"
 
+    - name: Set up ChromeDriver in PATH
+      run: echo "$HOME/bin" >> $GITHUB_PATH
+      
     - name: Run Python Script
       run: python ./tests/automateScript.py 
