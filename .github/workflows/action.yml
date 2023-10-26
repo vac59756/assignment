@@ -27,10 +27,8 @@ jobs:
       run: |
         wget https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_linux64.zip
         unzip chromedriver_linux64.zip
-        mkdir -p $HOME/bin  # Create a directory in your home directory
-        mv chromedriver $HOME/bin/  # Move chromedriver to the new directory
+        sudo mv chromedriver /usr/local/bin/
         rm chromedriver_linux64.zip
-        echo "::add-path::$HOME/bin"  # Add the new directory to the PATH
-
+        
     - name: Run Python Script
       run: python ./tests/automteScript.py 

@@ -8,7 +8,7 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 
 # Initialize the WebDriver
-options = ChromeOptions(executable_path='/home/runner/bin/chromedriver')
+options = ChromeOptions()
 options.set_capability('sessionName', 'Assignment Test')
 driver = webdriver.Chrome(options=options)
 
