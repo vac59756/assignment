@@ -23,5 +23,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # If you have any dependencies
 
+    - name: Install Chrome Driver
+      run: |
+        wget https://chromedriver.storage.googleapis.com/<<version>>/chromedriver_linux64.zip
+        unzip chromedriver_linux64.zip
+        sudo mv chromedriver /usr/local/bin/
+        rm chromedriver_linux64.zip
+
     - name: Run Python Script
-      run: python ./tests/assignment.py 
+      run: python ./tests/automteScript.py 
