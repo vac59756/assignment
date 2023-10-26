@@ -25,7 +25,7 @@ jobs:
 
     - name: Install Chrome Driver
       run: |
-        wget https://chromedriver.storage.googleapis.com/<<version>>/chromedriver_linux64.zip
+        wget https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_linux64.zip
         unzip chromedriver_linux64.zip
         mkdir -p $HOME/bin  # Create a directory in your home directory
         mv chromedriver $HOME/bin/  # Move chromedriver to the new directory
