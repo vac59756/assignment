@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout Repository
@@ -23,20 +23,5 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # If you have any dependencies
 
-    - name: Remove Existing Chromedriver
-      run: sudo rm /usr/local/bin/chromedriver || true
-
-    - name: Download and Set up ChromeDriver
-      run: |
-        CHROMEDRIVER_VERSION="<<version>>"
-        wget https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
-        unzip chromedriver_linux64.zip
-        mkdir -p $HOME/bin
-        mv chromedriver $HOME/bin/
-        rm chromedriver_linux64.zip
-
-    - name: Set up ChromeDriver in PATH
-      run: echo "$HOME/bin" >> $GITHUB_PATH
-      
     - name: Run Python Script
       run: python ./tests/automateScript.py 
