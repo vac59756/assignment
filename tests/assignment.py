@@ -23,7 +23,8 @@ category = WebDriverWait(driver, 10).until(
 )
 category.click()
 
-# Apply filters
+# Apply 
+# Select SAMSUNG brand
 brand = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.XPATH, "//div[@title='SAMSUNG']"))
 )
@@ -31,11 +32,13 @@ brand.click()
 
 time.sleep(2)
 
+# Select Flipkart assuared
 flipkart_assured_filter = WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.CLASS_NAME, "_3U-Vxu"))
 )
 flipkart_assured_filter.click()
 
+#Sort price high to low
 high_to_low_option = WebDriverWait(driver, 10).until(
     EC.element_to_be_clickable((By.XPATH, "//div[text()='Price -- High to Low']"))
 )

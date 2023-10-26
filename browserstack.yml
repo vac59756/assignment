@@ -22,9 +22,9 @@ platforms:
     browserName: Chrome
     browserVersion: 118
 browserstackLocal: false
-buildName: bstack-demo
+buildName: assignment-demo
 buildIdentifier: ${BUILD_NUMBER}
-projectName: BrowserStack Sample
+projectName: Assignment
 debug: true
 networkLogs: true
 consoleLogs: info

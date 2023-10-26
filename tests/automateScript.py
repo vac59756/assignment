@@ -9,7 +9,7 @@ import time
 
 # Initialize the WebDriver
 options = ChromeOptions()
-options.set_capability('sessionName', 'BStack Sample Test')
+options.set_capability('sessionName', 'Assignment Test')
 driver = webdriver.Chrome(options=options)
 
 try:
@@ -30,6 +30,7 @@ try:
     category.click()
 
     # Apply filters
+    # Select SAMSUNG brand
     brand = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, "//div[@title='SAMSUNG']"))
     )
@@ -37,11 +38,13 @@ try:
 
     time.sleep(2)
 
+    # Select Flipkart assuared
     flipkart_assured_filter = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.CLASS_NAME, "_3U-Vxu"))
     )
     flipkart_assured_filter.click()
-
+    
+    #Sort price high to low
     high_to_low_option = WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.XPATH, "//div[text()='Price -- High to Low']"))
     )
@@ -68,6 +71,7 @@ try:
     for item in product_info:
         print(item)
 
+    #Execute the test using BrowserStack Automate platform on five Parallel 
     if product_info:
         # Set the status of test as 'passed'
         driver.execute_script(
