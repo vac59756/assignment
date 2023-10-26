@@ -16,11 +16,11 @@ platforms:
   - os: OS X
     osVersion: Sonoma
     browserName: Chrome
-    browserVersion: 118
+    browserVersion: 114
   - os: OS X
     osVersion: Ventura
     browserName: Chrome
-    browserVersion: 118
+    browserVersion: 114
 browserstackLocal: false
 buildName: assignment-demo
 buildIdentifier: ${BUILD_NUMBER}
