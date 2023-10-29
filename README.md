@@ -45,3 +45,4 @@ Installation/Build/Test process
         run > pip3 install -r requirements.txt > in the parent directory
         run > browserstack-sdk python3 ./tests/automateScript.py
     Script githubCI.py gets triggered when there is a push performed on the repo
+        Get the build result on Github under Actions
