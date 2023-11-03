@@ -1,0 +1,362 @@
+
+Fri Nov 03 2023 00:44:52:403 GMT+0530 (India Standard Time) -- [ERROR] Please provide a valid key, available here: https://www.browserstack.com/accounts/settings
+Fri Nov 03 2023 00:44:52:403 GMT+0530 (India Standard Time) -- [ERROR] DATA_INCORRECT:3001 https://browserstack.com/docs/local-testing/binary/errors/3001
+Fri Nov 03 2023 00:44:52:411 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+Fri Nov 03 2023 00:44:53:70 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Fri Nov 03 2023 00:48:13:573 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 00:48:15:31 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 00:48:16:427 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 01:32:20:966 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 01:32:21:498 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 01:32:22:363 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 01:43:40:443 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 01:43:41:31 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 01:43:41:862 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 01:47:54:816 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 01:47:56:295 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 01:47:57:660 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 02:06:17:381 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 02:06:18:765 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 02:06:20:183 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 02:12:49:165 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 02:12:49:766 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 02:12:50:605 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 02:27:46:122 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 02:27:46:596 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 02:27:48:61 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 02:28:32:423 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 02:28:32:793 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 02:28:34:122 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 02:42:46:320 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 02:42:47:61 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 02:42:47:517 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 02:58:29:231 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 02:58:29:957 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 02:58:30:495 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:00:15:709 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:00:16:154 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:00:17:470 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:01:43:644 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:01:45:231 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:01:46:536 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:07:23:942 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:07:24:980 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:07:26:376 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:23:08:154 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:23:08:557 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:23:09:880 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:26:21:82 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:26:21:595 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:26:23:932 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:33:57:91 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:33:57:389 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:33:58:834 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:36:21:92 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:36:21:746 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:36:23:110 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:39:34:371 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:39:34:681 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:39:36:30 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:48:42:234 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:48:42:606 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:48:43:903 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:50:36:700 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:50:37:52 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:50:38:342 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 03:54:30:865 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 03:54:32:418 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 03:54:33:666 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 04:02:53:976 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 04:02:54:286 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 04:02:55:548 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 04:08:07:232 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 04:08:07:636 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 04:08:08:902 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 10:46:00:444 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 10:46:00:957 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 10:46:02:336 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 10:49:42:16 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 10:49:43:621 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 10:49:45:217 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 10:52:58:976 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 10:52:59:118 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 10:53:00:358 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 10:57:54:66 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 10:57:54:494 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 10:57:55:885 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:13:37:313 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:13:37:600 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:13:38:935 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:19:38:160 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:19:38:482 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:19:39:446 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:22:46:346 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:22:47:25 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:22:47:737 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:25:32:351 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:25:33:97 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:25:34:461 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:28:07:125 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:28:07:928 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:28:09:147 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:29:36:984 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:29:38:455 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:29:39:752 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:31:56:406 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:31:57:151 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:31:57:689 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:37:51:477 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:37:51:741 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:37:52:885 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:43:11:529 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:43:11:941 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:43:13:190 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 11:48:58:384 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 11:48:58:573 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 11:48:59:971 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:05:37:65 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:05:37:983 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:05:39:132 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:08:46:570 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:08:47:69 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:08:48:349 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:11:31:956 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:11:32:383 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:11:33:285 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:15:59:240 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:15:59:918 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:16:00:550 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:20:48:620 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:20:49:97 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:20:50:367 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:23:09:465 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:23:10:66 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:23:11:595 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:26:10:179 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:26:10:537 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:26:12:106 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:27:46:358 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:27:47:188 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:27:47:693 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:31:05:251 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:31:05:726 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:31:07:70 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:35:20:384 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:35:21:178 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:35:21:795 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:38:53:306 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:38:54:725 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:38:54:868 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+
+Fri Nov 03 2023 12:42:08:853 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:42:08:965 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Fri Nov 03 2023 12:42:09:569 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Fri Nov 03 2023 12:44:32:236 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:44:32:353 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Fri Nov 03 2023 12:44:33:65 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Fri Nov 03 2023 12:46:56:563 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+Fri Nov 03 2023 12:46:56:954 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Nov 03 2023 12:46:57:111 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
